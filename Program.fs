@@ -23,7 +23,7 @@ let paddleIn paddle x y =
 let mutable paddleA = {
     Paddle.Height = 3
     X = 1
-    Y = 2
+    Y = 4
 }
 
 let mutable paddleB = {
