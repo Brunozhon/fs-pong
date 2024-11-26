@@ -1,5 +1,4 @@
-﻿// For more information see https://aka.ms/fsharp-console-apps
-let boardWidth = 16
+﻿let boardWidth = 16
 let boardHeight = 8
 
 type Paddle = {
